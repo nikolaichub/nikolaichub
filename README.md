@@ -1,4 +1,4 @@
-![alt text](https://imgflip.com/i/4cjjcr "Inner Peace")
+![inner peace](https://i.imgflip.com/4cjmli.jpg)
 
 <!--
 **nikolaichub/nikolaichub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
